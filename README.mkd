@@ -1,0 +1,23 @@
+Yappo's resume
+==============
+
+Name:
+-----
+Kazuhiro Osawa
+
+Sex:
+----
+
+male
+
+Links:
+------
+
+  [CPAN](http://search.cpan.org/~yappo/)
+
+  [Github](https://github.com/yappo/)
+
+Skill:
+------
+
+* Perl
